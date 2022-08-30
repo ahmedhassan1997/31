@@ -1,0 +1,15 @@
+section.one .tow span{
+    background-color:red;
+}
+
+section.one .tow .one span{
+    font-size: 50px;
+}
+
+section.tow .one p{
+    background-color: orange;
+}
+
+section.tow .tow .one span{
+    color: rgb(17, 0, 255);
+}
